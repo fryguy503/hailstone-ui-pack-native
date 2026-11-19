@@ -1,0 +1,8 @@
+hailstone-addon 1
+name ui-pack-native
+kind plugin
+version 0.1.0-preview.1
+min_client 0.7.1-beta
+description Native window artwork and idle extended target rendering for Hailstone UI Pack
+caps ui
+package windows-x64 47912 ee5cc1ff37b2441c9655b0781cb3be7fe0c28fdcfe0f631916435eb64a80d19c ui-pack-native-0.1.0-preview.1-windows-x64.zip
